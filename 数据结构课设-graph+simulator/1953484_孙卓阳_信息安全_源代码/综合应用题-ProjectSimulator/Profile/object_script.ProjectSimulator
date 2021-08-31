@@ -1,0 +1,12 @@
+ChoiceDisassemblePart.o
+CustomAssemblyOrder.o
+ProductResources.o
+ShowProductProcess.o
+ShowReplacePart.o
+main.o
+MainWindow.o
+moc_ChoiceDisassemblePart.o
+moc_CustomAssemblyOrder.o
+moc_MainWindow.o
+moc_ShowProductProcess.o
+moc_ShowReplacePart.o

@@ -1,0 +1,12 @@
+release/ChoiceDisassemblePart.o
+release/CustomAssemblyOrder.o
+release/ProductResources.o
+release/ShowProductProcess.o
+release/ShowReplacePart.o
+release/main.o
+release/MainWindow.o
+release/moc_ChoiceDisassemblePart.o
+release/moc_CustomAssemblyOrder.o
+release/moc_MainWindow.o
+release/moc_ShowProductProcess.o
+release/moc_ShowReplacePart.o

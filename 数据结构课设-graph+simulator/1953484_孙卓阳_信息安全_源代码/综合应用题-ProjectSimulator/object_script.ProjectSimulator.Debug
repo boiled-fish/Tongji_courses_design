@@ -1,0 +1,12 @@
+debug/ChoiceDisassemblePart.o
+debug/CustomAssemblyOrder.o
+debug/ProductResources.o
+debug/ShowProductProcess.o
+debug/ShowReplacePart.o
+debug/main.o
+debug/MainWindow.o
+debug/moc_ChoiceDisassemblePart.o
+debug/moc_CustomAssemblyOrder.o
+debug/moc_MainWindow.o
+debug/moc_ShowProductProcess.o
+debug/moc_ShowReplacePart.o
